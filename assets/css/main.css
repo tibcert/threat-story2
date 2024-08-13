@@ -3983,6 +3983,10 @@ footer .inner{
 
 
 
+.tiles{
+	background-color:#2c3c4c;
+}
+
 .video-parallax {
   clip: rect(0, 100vw, 100vh, 0); /*!* Change second and third value to manipulate the width and height of your video *!*/
   position: absolute;
@@ -3996,4 +4000,12 @@ footer .inner{
 
 #two{
 	background-color:#e0432a;
+}
+footer label{
+	color:lightgray;
+}
+footer li{
+	list-style-type: none;
+	color:gray
+
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Community Response
-description: Lorem ipsum dolor est
+description: From the moment the Tibetan community came online we have faced persistent digital espionage. Over decades of being targeted, the community has grown capacities and resilience for defending against digital threats.
 image: assets/images/pic06.jpg
 nav-menu: true
 ---

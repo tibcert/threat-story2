@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction
+description: A young Tibetan woman living in Northern India takes a trip back to her village in Tibet to visit family. For the last two years she has been working for Drewla, a Tibetan NGO that provides ways for Tibetans inside Tibet to connect with the diaspora online. The trip does not go as planned.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

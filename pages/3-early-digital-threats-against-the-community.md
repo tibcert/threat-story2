@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Early Digital Threats Against The Community
-description: Lorem ipsum dolor est
+description: One of the earliest documented incidents of digital espionage against the community was reported in September 2003 by Jigme Tsering, a manager of the Tibetan Computer Resource Centre.
 image: assets/images/2.jpg
 nav-menu: true
 ---
