@@ -4,7 +4,7 @@ subtitle: Threat Report
 email: dawapaljor@tibetaction.net
 description: Strengthening security and building technical excellence of Tibetan organizations
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/threat-story2" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
